@@ -15,7 +15,7 @@ body{
 .container{
     background-color: #61a8ff;
     margin: auto;
-    height: 45vh;
+    height: 52vh;
     width: 50vw;
     margin-top: 10rem;
     border: 1px solid blue;
@@ -30,7 +30,7 @@ body{
     margin-left: 5rem;
     margin-top: 2rem;
     width: 40vw;
-    height: 38vh;
+    height: 40vh;
     background-color: white;
 }
 #symbol{

@@ -3,7 +3,7 @@
     .container{
         margin: auto;
         width: 90%;
-        height: 55vh;
+        height: 50vh;
         margin-top: 5rem;
     }
     
@@ -12,7 +12,7 @@
         margin-left: 1.2rem;
         margin-top: 2rem;
         width: 90%;
-        height: 45vh;
+        height: 40vh;
     }
     #symbol{
         height: 2rem;
