@@ -3,6 +3,7 @@
     .container{
         margin: auto;
         width: 90%;
+        height: 55vh;
         margin-top: 5rem;
     }
     
@@ -11,7 +12,7 @@
         margin-left: 1.2rem;
         margin-top: 2rem;
         width: 90%;
-        height: 80%;
+        height: 45vh;
     }
     #symbol{
         height: 2rem;
@@ -23,19 +24,19 @@
         display: block;
         margin-top: 1rem;
         padding-bottom: 2rem;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     
     #author{
         display: block;
         text-align: end;
         margin-right: 1rem;
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     
     #btn{
         text-align: center;
-        margin-top: 1.7rem;
+        margin-top: 2rem;
         padding: 0.5rem;
         font-size: 1.3rem;
     }
@@ -47,8 +48,8 @@
     .container{
         margin: auto;
         width: 70%;
-        height: 55vh;
-        margin-top: 5rem;
+        height: 25vh;
+        margin-top: 40%;
     }
     
     .layout{
@@ -68,7 +69,7 @@
         display: block;
         margin-top: 1rem;
         padding-bottom: 2rem;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     
     #author{

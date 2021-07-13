@@ -3,7 +3,8 @@ const author = document.getElementById('author');
 let realData = "";
 
 const getNewQuotes = () => {
-    let randNumber = Math.floor(Math.random()*10);
+    // var randomnumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
+    let randNumber = Math.floor(Math.random()*1000);
     quotes.innerText=`${realData[randNumber].text}`;
     author.innerText=`${realData[randNumber].author}`;
 }

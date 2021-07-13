@@ -30,7 +30,7 @@ body{
     margin-left: 5rem;
     margin-top: 2rem;
     width: 40vw;
-    height: 35vh;
+    height: 38vh;
     background-color: white;
 }
 #symbol{
@@ -44,20 +44,20 @@ body{
     margin-top: 2rem;
     padding-bottom: 2rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 #author{
     display: block;
     text-align: end;
     margin-right: 10rem;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
 #btn{
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 1.6rem;
     width: 100%;
     padding: 0.5rem;
     font-size: 1.5rem;
