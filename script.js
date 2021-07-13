@@ -6,7 +6,11 @@ const getNewQuotes = () => {
     // var randomnumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
     let randNumber = Math.floor(Math.random()*1000);
     quotes.innerText=`${realData[randNumber].text}`;
-    author.innerText=`${realData[randNumber].author}`;
+    if(realData[randNumber].author==null){
+        author.innerText="Unknown";
+    }else{
+        author.innerText=`${realData[randNumber].author}`;
+    }
 }
 
 const getQuotes = async () => {
